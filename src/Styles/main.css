@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: #242424;
+}
+
+#saludo{
+    color: aliceblue;
+    
+}
+.course_container img{
+    display: flex;
+    align-items: center;
+    width: 800px;
+    height: 400px;
+    
+}
+

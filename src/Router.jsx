@@ -14,7 +14,7 @@ function MyRoutes() {
         <Routes>
             <Route path='/' element={<Home/>} />
             <Route path='/courses' element={<Courses/>} />
-            <Route path='/:id' element={<Courseone/>} />
+            <Route path='/course/:id' element={<Courseone/>} />
         </Routes>
     </BrowserRouter>
     
